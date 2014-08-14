@@ -11,6 +11,6 @@ We will:
 
 ===========
 
-This line was added on 08/14/2014 by i-truong.
+This line was added and modified on 08/14/2014 by i-truong.
 
 
